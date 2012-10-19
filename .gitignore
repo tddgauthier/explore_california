@@ -1,0 +1,9 @@
+#comments
+temp.txt
+*.zip
+*.gz
+log/*.log
+log/*.log.[0-9]
+assets/photoshops/
+assets/videos/
+!assets/videos/tour_*.mp4
